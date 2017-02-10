@@ -48,4 +48,9 @@
 
     <!-- Value in SharedPreferences for green color option -->
     <string name="pref_color_green_value" translatable="false">green</string>
+
+    <!-- title for font size -->
+    <string name="pref_font_size_title">Font Size</string>
+    <string name="pref_font_size_key">font_size_key</string>
+    <string name="pref_font_size_defval">1</string>
 </resources>
